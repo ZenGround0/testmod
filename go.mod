@@ -1,1 +1,1 @@
-module github.com/zenground0/testmod
+module github.com/robteix/testmod/v2

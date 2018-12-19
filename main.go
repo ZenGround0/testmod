@@ -4,5 +4,5 @@ import "fmt"
 
 // Hi returns an unfriendly greeting
 func Hi(name string) string {
-	return fmt.Sprintf("Get fucked, %s", name)
+	return fmt.Sprintf("Please stop the hate, %s", name)
 }
